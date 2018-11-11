@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="target/samzajobs-0.0.1-SNAPSHOT-dist/lib/commons-daemon-1.0.13.jar"/>
+	<classpathentry kind="lib" path="target/samzajobs-0.0.1-SNAPSHOT-dist/lib/commons-el-1.0.jar"/>
+	<classpathentry kind="lib" path="target/samzajobs-0.0.1-SNAPSHOT-dist/lib/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="target/samzajobs-0.0.1-SNAPSHOT-dist/lib/grizzled-slf4j_2.11-1.3.0.jar"/>
+	<classpathentry kind="lib" path="target/samzajobs-0.0.1-SNAPSHOT-dist/lib/hadoop-hdfs-2.6.1.jar"/>
+	<classpathentry kind="lib" path="target/samzajobs-0.0.1-SNAPSHOT-dist/lib/jasper-runtime-5.5.23.jar"/>
+	<classpathentry kind="lib" path="target/samzajobs-0.0.1-SNAPSHOT-dist/lib/jline-0.9.94.jar"/>
+	<classpathentry kind="lib" path="target/samzajobs-0.0.1-SNAPSHOT-dist/lib/joda-time-2.2.jar"/>
+	<classpathentry kind="lib" path="target/samzajobs-0.0.1-SNAPSHOT-dist/lib/jopt-simple-4.9.jar"/>
+	<classpathentry kind="lib" path="target/samzajobs-0.0.1-SNAPSHOT-dist/lib/jsp-api-2.1.jar"/>
+	<classpathentry kind="lib" path="target/samzajobs-0.0.1-SNAPSHOT-dist/lib/juniversalchardet-1.0.3.jar"/>
+	<classpathentry kind="lib" path="target/samzajobs-0.0.1-SNAPSHOT-dist/lib/kafka_2.11-0.10.1.1.jar"/>
+	<classpathentry kind="lib" path="target/samzajobs-0.0.1-SNAPSHOT-dist/lib/kafka-clients-0.11.0.2.jar"/>
+	<classpathentry kind="lib" path="target/samzajobs-0.0.1-SNAPSHOT-dist/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="target/samzajobs-0.0.1-SNAPSHOT-dist/lib/lz4-1.3.0.jar"/>
+	<classpathentry kind="lib" path="target/samzajobs-0.0.1-SNAPSHOT-dist/lib/metrics-core-2.2.0.jar"/>
+	<classpathentry kind="lib" path="target/samzajobs-0.0.1-SNAPSHOT-dist/lib/mime-util-2.1.3.jar"/>
+	<classpathentry kind="lib" path="target/samzajobs-0.0.1-SNAPSHOT-dist/lib/netty-3.6.2.Final.jar"/>
+	<classpathentry kind="lib" path="target/samzajobs-0.0.1-SNAPSHOT-dist/lib/rocksdbjni-5.7.3.jar"/>
+	<classpathentry kind="lib" path="target/samzajobs-0.0.1-SNAPSHOT-dist/lib/samza-core_2.11-0.14.1.jar"/>
+	<classpathentry kind="lib" path="target/samzajobs-0.0.1-SNAPSHOT-dist/lib/samza-kafka_2.11-0.14.1.jar"/>
+	<classpathentry kind="lib" path="target/samzajobs-0.0.1-SNAPSHOT-dist/lib/samza-kv-rocksdb_2.11-0.14.1.jar"/>
+	<classpathentry kind="lib" path="target/samzajobs-0.0.1-SNAPSHOT-dist/lib/samza-log4j-0.14.1.jar"/>
+	<classpathentry kind="lib" path="target/samzajobs-0.0.1-SNAPSHOT-dist/lib/samza-yarn_2.11-0.14.1.jar"/>
+	<classpathentry kind="lib" path="target/samzajobs-0.0.1-SNAPSHOT-dist/lib/scala-compiler-2.11.8.jar"/>
+	<classpathentry kind="lib" path="target/samzajobs-0.0.1-SNAPSHOT-dist/lib/scala-library-2.11.8.jar"/>
+	<classpathentry kind="lib" path="target/samzajobs-0.0.1-SNAPSHOT-dist/lib/scala-parser-combinators_2.11-1.0.4.jar"/>
+	<classpathentry kind="lib" path="target/samzajobs-0.0.1-SNAPSHOT-dist/lib/scala-reflect-2.11.8.jar"/>
+	<classpathentry kind="lib" path="target/samzajobs-0.0.1-SNAPSHOT-dist/lib/scala-xml_2.11-1.0.4.jar"/>
+	<classpathentry kind="lib" path="target/samzajobs-0.0.1-SNAPSHOT-dist/lib/scalate-core_2.11-1.8.0.jar"/>
+	<classpathentry kind="lib" path="target/samzajobs-0.0.1-SNAPSHOT-dist/lib/scalate-util_2.11-1.8.0.jar"/>
+	<classpathentry kind="lib" path="target/samzajobs-0.0.1-SNAPSHOT-dist/lib/scalatra_2.11-2.5.0.jar"/>
+	<classpathentry kind="lib" path="target/samzajobs-0.0.1-SNAPSHOT-dist/lib/scalatra-common_2.11-2.5.0.jar"/>
+	<classpathentry kind="lib" path="target/samzajobs-0.0.1-SNAPSHOT-dist/lib/scalatra-scalate_2.11-2.5.0.jar"/>
+	<classpathentry kind="lib" path="target/samzajobs-0.0.1-SNAPSHOT-dist/lib/slf4j-log4j12-1.6.2.jar"/>
+	<classpathentry kind="lib" path="target/samzajobs-0.0.1-SNAPSHOT-dist/lib/snappy-java-1.1.2.6.jar"/>
+	<classpathentry kind="lib" path="target/samzajobs-0.0.1-SNAPSHOT-dist/lib/xercesImpl-2.9.1.jar"/>
+	<classpathentry kind="lib" path="target/samzajobs-0.0.1-SNAPSHOT-dist/lib/xml-apis-1.3.04.jar"/>
+	<classpathentry kind="lib" path="target/samzajobs-0.0.1-SNAPSHOT-dist/lib/zkclient-0.8.jar"/>
+	<classpathentry kind="lib" path="target/samzajobs-0.0.1-SNAPSHOT-dist/lib/zookeeper-3.4.6.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
